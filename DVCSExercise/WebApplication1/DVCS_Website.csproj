@@ -427,7 +427,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>59542</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>https://localhost:44383/</IISUrl>
+          <IISUrl>http://localhost:44384/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
